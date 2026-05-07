@@ -1,0 +1,16 @@
+[
+  {
+    "id": "s0",
+    "name": "Scenario A",
+    "color": "#ff6b35",
+    "placements": [
+      "M-117-118"
+    ]
+  },
+  {
+    "id": "s1",
+    "name": "Scenario B",
+    "color": "#3b82f6",
+    "placements": []
+  }
+]
