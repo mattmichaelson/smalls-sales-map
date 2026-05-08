@@ -1,22 +1,28 @@
 [
   {
     "id": "s0",
-    "name": "Matt's Scenario",
+    "name": "Dream Scenario",
     "color": "#ff6b35",
     "placements": [
       "M-354",
+      "C-1159",
+      "STAT-BEDFORD",
       "C-2129",
       "BK-167",
       "BK-182",
-      "BK-340",
-      "C-1149",
-      "STAT-BEDFORD"
+      "BK-340"
     ]
   },
   {
     "id": "s1",
     "name": "Scenario B",
     "color": "#3b82f6",
+    "placements": []
+  },
+  {
+    "id": "s2",
+    "name": "Scenario C",
+    "color": "#a855f7",
     "placements": []
   }
 ]
