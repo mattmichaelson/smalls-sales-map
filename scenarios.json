@@ -18,6 +18,13 @@
     "id": "s1",
     "name": "Scenario B",
     "color": "#3b82f6",
-    "placements": []
+    "placements": [
+      "C-1140",
+      "C-1149",
+      "C-1152",
+      "C-1159",
+      "C-1148",
+      "STAT-SPRING"
+    ]
   }
 ]
