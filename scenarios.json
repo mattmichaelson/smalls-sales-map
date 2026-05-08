@@ -1,16 +1,15 @@
 [
   {
     "id": "s0",
-    "name": "Dream Scenario",
+    "name": "Matt's Scenario",
     "color": "#ff6b35",
     "placements": [
       "M-354",
-      "C-1159",
-      "STAT-BEDFORD",
-      "C-2129",
       "BK-167",
       "BK-182",
-      "BK-340"
+      "BK-340",
+      "C-1149",
+      "STAT-BEDFORD"
     ]
   },
   {
@@ -18,23 +17,5 @@
     "name": "Scenario B",
     "color": "#3b82f6",
     "placements": []
-  },
-  {
-    "id": "s2",
-    "name": "5/7/26",
-    "color": "#a855f7",
-    "placements": [
-      "C-2277",
-      "BK-183-184",
-      "BK-182",
-      "C-2221",
-      "C-2129",
-      "BK-180",
-      "C-2145",
-      "C-1149",
-      "C-2201",
-      "BK-340",
-      "M-354"
-    ]
   }
 ]
