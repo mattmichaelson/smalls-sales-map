@@ -26,5 +26,11 @@
       "C-1148",
       "STAT-SPRING"
     ]
+  },
+  {
+    "id": "s2",
+    "name": "Scenario C",
+    "color": "#a855f7",
+    "placements": []
   }
 ]
