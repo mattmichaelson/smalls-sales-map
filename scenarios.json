@@ -63,7 +63,9 @@
     "id": "s3",
     "name": "Retail launch",
     "color": "#22c55e",
-    "placements": [],
+    "placements": [
+      "LED-TRUCK"
+    ],
     "trucks": null
   }
 ]
