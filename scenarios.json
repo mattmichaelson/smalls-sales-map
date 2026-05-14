@@ -73,7 +73,9 @@
     "id": "s4",
     "name": "Matt W+S",
     "color": "#f59e0b",
-    "placements": [],
+    "placements": [
+      "C-1149"
+    ],
     "trucks": null
   }
 ]
