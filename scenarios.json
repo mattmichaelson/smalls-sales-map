@@ -13,8 +13,13 @@
       "C-2221",
       "WP-W1",
       "C-2246",
-      "WP-W2"
-    ]
+      "WP-W2",
+      "ADGILE-TRUCKS"
+    ],
+    "trucks": {
+      "count": 25,
+      "weeks": 8
+    }
   },
   {
     "id": "s1",
@@ -28,7 +33,8 @@
       "C-1166",
       "M-354",
       "M-400"
-    ]
+    ],
+    "trucks": null
   },
   {
     "id": "s2",
@@ -45,7 +51,12 @@
       "WP-G1",
       "WP-S1",
       "WP-NOHO",
-      "M-400"
-    ]
+      "M-400",
+      "ADGILE-TRUCKS"
+    ],
+    "trucks": {
+      "count": 25,
+      "weeks": 8
+    }
   }
 ]
