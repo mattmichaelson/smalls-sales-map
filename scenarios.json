@@ -50,7 +50,6 @@
       "WP-S1",
       "WP-NOHO",
       "M-400",
-      "ADGILE-TRUCKS",
       "C-1166"
     ],
     "trucks": {
@@ -63,8 +62,12 @@
     "name": "Retail launch",
     "color": "#22c55e",
     "placements": [
-      "LED-TRUCK"
+      "LED-TRUCK",
+      "ADGILE-TRUCKS"
     ],
-    "trucks": null
+    "trucks": {
+      "count": 5,
+      "weeks": 4
+    }
   }
 ]
