@@ -14,7 +14,8 @@
       "WP-W1",
       "C-2246",
       "WP-W2",
-      "ADGILE-TRUCKS"
+      "ADGILE-TRUCKS",
+      "WP-G1"
     ],
     "trucks": {
       "count": 25,
@@ -46,7 +47,6 @@
       "BK-183-184",
       "BK-340",
       "C-2221",
-      "WP-G1",
       "WP-S1",
       "WP-NOHO",
       "M-400",
