@@ -68,5 +68,12 @@
       "count": 5,
       "weeks": 4
     }
+  },
+  {
+    "id": "s4",
+    "name": "Scenario E",
+    "color": "#f59e0b",
+    "placements": [],
+    "trucks": null
   }
 ]
