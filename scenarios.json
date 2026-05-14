@@ -58,5 +58,12 @@
       "count": 25,
       "weeks": 8
     }
+  },
+  {
+    "id": "s3",
+    "name": "REtai",
+    "color": "#22c55e",
+    "placements": [],
+    "trucks": null
   }
 ]
