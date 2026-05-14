@@ -78,8 +78,12 @@
       "M-354",
       "M-400",
       "WP-NOHO",
-      "WP-S1"
+      "WP-S1",
+      "ADGILE-TRUCKS"
     ],
-    "trucks": null
+    "trucks": {
+      "count": 25,
+      "weeks": 4
+    }
   }
 ]
