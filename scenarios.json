@@ -28,17 +28,18 @@
     "color": "#3b82f6",
     "placements": [
       "C-1149",
+      "STAT-BROADWAY-LAF",
       "WP-S1",
       "WP-NOHO",
+      "C-1166",
       "M-354",
-      "M-400",
-      "M-390"
+      "M-400"
     ],
     "trucks": null
   },
   {
     "id": "s2",
-    "name": "Soho + Wburg",
+    "name": "FINAL CAMPAIGN OOH",
     "color": "#a855f7",
     "placements": [
       "M-354",
@@ -83,13 +84,11 @@
       "BK-183-184",
       "BK-182",
       "WP-W1",
-      "M-390",
-      "WP-G1",
-      "BK-340",
-      "BK-327"
+      "WP-W2",
+      "M-390"
     ],
     "trucks": {
-      "count": 35,
+      "count": 25,
       "weeks": 4
     }
   }
